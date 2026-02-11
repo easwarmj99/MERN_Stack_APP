@@ -1,9 +1,9 @@
-   # 🚀 2ndWeeksofCloudOps - 3 tier Application
+   # 🚀 3 tier Application
 
 ✨This repository is created to learn and deploy  3-tier application on aws cloud. this project contain three layer Presentation, Application and database
 
 ## 🏠 Architecture
-![Architecture of the application](architecture.gif)
+
 
 ## Tech stack
 
