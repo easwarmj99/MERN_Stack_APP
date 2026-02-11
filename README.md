@@ -64,7 +64,7 @@ add below content
 DB_HOST=localhost or URL_of_RDS
 DB_USERNAME=user_name_of_MySQL
 DB_PASSWORD=passwod_of_my_sql
-PORT=3306
+DB_NAME=test
 ```
 **Note** : please change above file depending on your setup. like you may use RDS(AWS) or Local mysql-server on your system. your mysql contain database with the name of `test` and it should has `books` table. You can you test.sql to create table 
 
